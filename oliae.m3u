@@ -1,8 +1,13 @@
-
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="" parent-code="" group-title="FILMES&SERIES", A&E
+
 http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5189.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" parent-code="" group-title="FILMES&SERIES", AMC
+
 http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5041.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" parent-code="" group-title="FILMES&SERIES", AXN
+
 http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5192.ts
