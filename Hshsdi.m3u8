@@ -1,7 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" group-title="FILMES&SERIES", A&E
-http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5189.ts
-#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" group-title="FILMES&SERIES", AMC
+#EXTINF:-1 group-title="CANAIS: HD" A&E 
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5040.ts
+#EXTINF:-1 group-title="CANAIS: HD" AMC
 http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5041.ts
-#EXTINF:-1 tvg-id="" tvg-name="" parent-code="" group-title="FILMES&SERIES", AXN
-http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5192.ts
+#EXTINF:-1 group-title="VARIEDADES" ANIMAL PLANET
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5042.ts
+#EXTINF:-1 group-title="CANAIS: HD" AXN
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5043.ts
+#EXTINF:-1 group-title="CANAIS ABERTOS" BAND
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/68519.ts
+#EXTINF:-1 group-title="CANAIS: HD" SONY
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5046.ts
+#EXTINF:-1 group-title="CANAIS: HD" CINEMAX
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5048.ts
+#EXTINF:-1 group-title="CANAIS: HD" FX
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5073.ts
+#EXTINF:-1 group-title="CANAIS: HD" MEGAPIX
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5090.ts
+#EXTINF:-1 group-title="CANAIS: HD"  PARAMOUNT
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5099.ts
+#EXTINF:-1 group-title="CANAIS: HD" SPACE 
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5109.ts
+#EXTINF:-1 group-title="CANAIS: HD" STAR CHANNEL
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5067.ts
+#EXTINF:-1 group-title="CANAIS: HD" STUDIO UNIVERSAL
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5113.ts
+#EXTINF:-1 group-title="CANAIS: HD" SYFY
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5114.ts
+#EXTINF:-1 group-title="CANAIS: HD" TNT 
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/923057.ts
+#EXTINF:-1 group-title="CANAIS: HD" TNT SÉRIES
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5124.ts
+#EXTINF:-1 group-title="CANAIS: HD" UNIVERSAL TV
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5129.ts
+#EXTINF:-1 group-title="CANAIS: HD" WARNER CHANNEL 
+http://rctv.tech/live/testepainelp2p/aqzFw8hBeN/5132.ts
